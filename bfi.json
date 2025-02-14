@@ -2,265 +2,265 @@
   {
     "input": "Is talkative",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": false}
   },
   {
     "input": "Tends to find fault with others",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": true}
   },
   {
     "input": "Does a thorough job",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": false}
   },
   {
     "input": "Is depressed, blue",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": false}
   },
   {
     "input": "Is original, comes up with new ideas",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   },
   {
     "input": "Is reserved",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": true}
   },
   {
     "input": "Is helpful and unselfish with others",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": false}
   },
   {
     "input": "Can be somewhat careless",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": true}
   },
   {
     "input": "Is relaxed, handles stress well",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": true}
   },
   {
     "input": "Is curious about many different things",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   },
   {
     "input": "Is full of energy",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": false}
   },
   {
     "input": "Starts quarrels with others",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": true}
   },
   {
     "input": "Is a reliable worker",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": false}
   },
   {
     "input": "Can be tense",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": false}
   },
   {
     "input": "Is ingenious, a deep thinker",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   },
   {
     "input": "Generates a lot of enthusiasm",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": false}
   },
   {
     "input": "Has a forgiving nature",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": false}
   },
   {
     "input": "Tends to be disorganized",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": true}
   },
   {
     "input": "Worries a lot",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": false}
   },
   {
     "input": "Has an active imagination",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   },
   {
     "input": "Tends to be quiet",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": true}
   },
   {
     "input": "Is generally trusting",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": false}
   },
   {
     "input": "Tends to be lazy",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": true}
   },
   {
     "input": "Is emotionally stable, not easily upset",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": true}
   },
   {
     "input": "Is inventive",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   },
   {
     "input": "Has an assertive personality",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": false}
   },
   {
     "input": "Can be cold and aloof",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": true}
   },
   {
     "input": "Perseveres until the task is finished",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": false}
   },
   {
     "input": "Can be moody",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": false}
   },
   {
     "input": "Values artistic, aesthetic experiences",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   },
   {
     "input": "Is sometimes shy, inhibited",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": true}
   },
   {
     "input": "Is considerate and kind to almost everyone",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": false}
   },
   {
     "input": "Does things efficiently",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": false}
   },
   {
     "input": "Remains calm in tense situations",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": true}
   },
   {
     "input": "Prefers work that is routine",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": true}
   },
   {
     "input": "Is outgoing, sociable",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Extraversion", "reverse": false}
   },
   {
     "input": "Is sometimes rude to others",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": true}
   },
   {
     "input": "Makes plans and follows through with them",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": false}
   },
   {
     "input": "Gets nervous easily",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Neuroticism", "reverse": false}
   },
   {
     "input": "Likes to reflect, play with ideas",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   },
   {
     "input": "Has few artistic interests",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": true}
   },
   {
     "input": "Likes to cooperate with others",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Agreeableness", "reverse": false}
   },
   {
     "input": "Is easily distracted",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Conscientiousness", "reverse": true}
   },
   {
     "input": "Is sophisticated in art, music, or literature",
     "target": null,
-    "choices": ["1", "2", "3", "4", "5"],
+    "choices": ["Disagree strongly", "Disagree a little", "Neither agree nor disagree", "Agree a little", "Agree Strongly"],
     "metadata": {"trait": "Openness", "reverse": false}
   }
 ]
