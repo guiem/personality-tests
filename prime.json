@@ -1,0 +1,302 @@
+[
+  {
+    "input": "When working on a detailed analysis or report, I make sure to review every step before finalizing.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": false}
+  },
+  {
+    "input": "I am comfortable skipping a few instructions if it means completing a task more quickly, especially if no one is checking.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": true}
+  },
+  {
+    "input": "Even for routine tasks, I like to confirm I have all necessary information before I begin.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": false}
+  },
+  {
+    "input": "When assigned a project, I often rely on others to catch small errors instead of double-checking on my own.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": true}
+  },
+  {
+    "input": "Before submitting a written proposal or document, I go through multiple drafts to ensure it's as accurate as possible.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": false}
+  },
+  {
+    "input": "I usually assume my first attempt is good enough, without verifying every detail, if time is short.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": true}
+  },
+  {
+    "input": "I feel more confident when all specifications and requirements are completely addressed before moving on.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": false}
+  },
+  {
+    "input": "It’s not necessary to go through every single item on a checklist; a spot check here and there is usually enough.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": true}
+  },
+  {
+    "input": "I make sure each phase of a process is completed correctly rather than rushing to finish.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": false}
+  },
+  {
+    "input": "When reviewing someone else’s work, I often catch small details they’ve overlooked.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Thoroughness","reverse": false}
+  },
+  {
+    "input": "I usually plan my workload to reduce any unnecessary steps or downtime in between tasks.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": false}
+  },
+  {
+    "input": "It’s better to complete tasks as they come without spending too much time figuring out if there’s a more streamlined approach.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": true}
+  },
+  {
+    "input": "I invest effort in automating repetitive tasks or finding tools to speed up my workflow.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": false}
+  },
+  {
+    "input": "When facing multiple responsibilities, I tend to address each task in an order that helps me finish them quickly and effectively.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": false}
+  },
+  {
+    "input": "I often do things the way they’ve always been done rather than trying to optimize the process.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": true}
+  },
+  {
+    "input": "I look for methods to handle large tasks in smaller, more efficient chunks.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": false}
+  },
+  {
+    "input": "Despite advice that a method is outdated, I prefer sticking to what I know because it feels simpler.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": true}
+  },
+  {
+    "input": "I try to minimize context switching by grouping related tasks together for better productivity.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": false}
+  },
+  {
+    "input": "I dedicate extra time to planning if it helps me execute tasks more quickly later on.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": false}
+  },
+  {
+    "input": "If there’s a lot going on, I tend to jump between tasks and lose track, slowing me down in the long run.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Efficiency","reverse": true}
+  },
+  {
+    "input": "When stuck on a complex problem, I like to consider multiple approaches, even if they seem unorthodox.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": false}
+  },
+  {
+    "input": "I prefer to follow standard solutions instead of experimenting with unique ideas that might complicate the task.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": true}
+  },
+  {
+    "input": "I feel energized by brainstorming sessions that push me to come up with inventive or unconventional solutions.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": false}
+  },
+  {
+    "input": "It usually doesn’t cross my mind to question a process or procedure if it's clearly laid out.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": true}
+  },
+  {
+    "input": "I enjoy combining ideas from different fields or disciplines to tackle a project or challenge.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": false}
+  },
+  {
+    "input": "I get uncomfortable when someone suggests a totally new way of doing things that we haven't tried before.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": true}
+  },
+  {
+    "input": "I like exploring cutting-edge tools or techniques, even if there's a learning curve involved.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": false}
+  },
+  {
+    "input": "I tend to adopt fresh perspectives, believing they can spark breakthroughs or improvements in projects.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": false}
+  },
+  {
+    "input": "If an idea seems hard to explain, I discard it to avoid complicating the conversation.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": true}
+  },
+  {
+    "input": "Sometimes, challenging constraints lead me to discover completely new and exciting approaches.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Creativity","reverse": false}
+  },
+  {
+    "input": "When a friend or colleague shares a problem they're facing, I make it a point to hear them out without judging.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": false}
+  },
+  {
+    "input": "If someone is dealing with personal stress, I believe it’s best for them to handle it on their own, rather than involving me.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": true}
+  },
+  {
+    "input": "I try to understand how others feel in a difficult situation before offering any advice or solution.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": false}
+  },
+  {
+    "input": "During disagreements, I adapt my tone or approach to avoid aggravating the other person’s emotions.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": false}
+  },
+  {
+    "input": "I assume most people can handle their own issues, so I rarely check in on how they're coping.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": true}
+  },
+  {
+    "input": "I do my best to offer a listening ear or practical help when I notice someone under significant stress.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": false}
+  },
+  {
+    "input": "I tend to dismiss how others might feel if it doesn't directly affect the outcome of the task at hand.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": true}
+  },
+  {
+    "input": "I adapt my approach depending on a person's background or emotional state to build better rapport.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": false}
+  },
+  {
+    "input": "I believe that creating a supportive environment can boost collaboration and overall morale.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": false}
+  },
+  {
+    "input": "I try to see where someone is coming from, even if I completely disagree with their point of view.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Empathy","reverse": false}
+  },
+  {
+    "input": "I am drawn to bold ideas that may have uncertain outcomes, as the potential reward excites me.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": false}
+  },
+  {
+    "input": "I feel uneasy trying a method with unknown results, so I usually avoid it unless it's proven effective.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": true}
+  },
+  {
+    "input": "If I believe in the potential of an approach, I’m willing to implement it without having all details upfront.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": false}
+  },
+  {
+    "input": "I prefer maintaining tried-and-true methods instead of veering into unexplored territory.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": true}
+  },
+  {
+    "input": "When I spot an opening for a game-changing move, I jump at the chance, even if it’s somewhat risky.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": false}
+  },
+  {
+    "input": "If the likelihood of success isn't high, I'd rather pick a safer path to avoid setbacks or criticism.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": true}
+  },
+  {
+    "input": "I enjoy taking on challenging assignments that push me beyond my usual skill set, despite potential failure.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": false}
+  },
+  {
+    "input": "I find it uncomfortable to accept any tasks that I'm not fully trained for, so I usually turn them down.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": true}
+  },
+  {
+    "input": "I trust in my problem-solving abilities to handle uncertain situations, so I'm open to taking significant risks at times.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": false}
+  },
+  {
+    "input": "I get excited by the possibility of substantial gains, even if there's a real chance of a major setback.",
+    "target": ["A","B","C","D","E"],
+    "choices": ["Disagree strongly","Disagree a little","Neither agree nor disagree","Agree a little","Agree strongly"],
+    "metadata": {"trait": "Risk-Taking","reverse": false}
+  }
+]
